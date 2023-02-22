@@ -1,3 +1,2 @@
-
-let nombre = "Alexis" 
-console.log(nombre)
+const nombre : string = "Alexis"; 
+console.log(nombre);
