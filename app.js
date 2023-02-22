@@ -5,3 +5,5 @@ array.forEach(element => {
 });
 
 console.table([{id:1},{id:2}])
+
+console.log(9*4);
